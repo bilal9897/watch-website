@@ -5,7 +5,7 @@ Build **one premium showcase website a day**, each with a **completely different
 - **The engine stays the same:** smooth scrolling, scroll-scrubbed video, loader, custom cursor, reveal animations, and a **record mode** that scrolls the page on a fixed timeline for filming.
 - **The design is new every time:** Claude Code designs each site from scratch (layout, nav, fonts, cards, page flow), using the pattern library as ingredients and a design menu so no two days look alike.
 
-Current site: **Meridian**, a (fictional) luxury watch maison. Day 1, archived as `archive/day-01-meridian`. Concept websites by **Triozen Tech**.
+Current site: **Meridian**, a (fictional) luxury watch maison. Day 1, archived as `archive/day-01-meridian`. Concept websites by **bilalsalmani.in**.
 
 ---
 
@@ -357,6 +357,6 @@ For filming, running it locally with `npm run build && npm start` is the most re
 
 ## Notes
 
-- **Concept sites.** Prices are samples, and every site keeps a "Concept website by Triozen Tech" footer note. Never use a real brand's logo files or copy its real website.
+- **Concept sites.** Prices are samples, and every site keeps a "Concept website by bilalsalmani.in" footer note. Never use a real brand's logo files or copy its real website.
 - **`archive/demo-aurex`** (the original Aurex Motors demo) needs its images and frames (`public/images/road-*`, `studio-*`, `demo-car-*`, `public/frames/hero`, `public/frames/car-spin`), which are no longer in `public/`. Restoring it without them shows missing images.
 - **Desktop first:** 1440×900 and 1920×1080 are the priority; phones (375 px) must not break.

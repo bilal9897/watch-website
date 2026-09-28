@@ -1,6 +1,6 @@
 // All text + data for Meridian. Prices are samples (concept site).
 
-export const STUDIO = "Triozen Tech";
+export const STUDIO = "bilalsalmani.in";
 
 export const FRAMES = "/frames/meridian-exploded";
 
