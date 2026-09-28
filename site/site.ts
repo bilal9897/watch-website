@@ -1,12 +1,12 @@
 import type { SiteMeta, Theme } from "@/lib/site";
 
-// Settings for THIS site: Meridian, a (fictional) watch maison. Direction: site/DESIGN.md.
+// Settings for THIS site: Vanguard, a (fictional) watch maison. Direction: site/DESIGN.md.
 
 export const meta: SiteMeta = {
-  name: "Meridian",
-  title: "Meridian — Time, taken apart.",
-  description: "Meridian makes hand-finished mechanical watches: skeleton tourbillons, enamel dials and a movement you can see through.",
-  loaderText: "MERIDIAN",
+  name: "Vanguard",
+  title: "Vanguard — Time, taken apart.",
+  description: "Vanguard makes hand-finished mechanical watches: skeleton tourbillons, enamel dials and a movement you can see through.",
+  loaderText: "VANGUARD",
   loader: false, // site/components/ClockLoader.tsx replaces the engine loader
   // ?record=1 uses the section timeline (data-record-* attributes on the sections, docs/RECORDING.md)
 };

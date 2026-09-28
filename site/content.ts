@@ -1,11 +1,11 @@
-// All text + data for Meridian. Prices are samples (concept site).
+// All text + data for Vanguard. Prices are samples (concept site).
 
-export const STUDIO = "Triozen Tech";
+export const STUDIO = "Bilal Salmani (bilalsalmani600@gmail.com)";
 
 export const FRAMES = "/frames/meridian-exploded";
 
 export const nav = {
-  logo: "MERIDIAN",
+  logo: "VANGUARD",
   links: [
     { label: "Collection", href: "#collection" },
     { label: "Atelier", href: "#atelier" },
@@ -81,7 +81,7 @@ export type Build = {
 export const studio = {
   eyebrow: "Configure",
   heading: "Make it *yours.*",
-  text: "Choose a dial and a strap. Every Meridian is assembled to order and engraved free of charge.",
+  text: "Choose a dial and a strap. Every Vanguard is assembled to order and engraved free of charge.",
   builds: [
     { dial: "Rosé skeleton", dialColor: "#c89a74", strap: "Cognac alligator", strapColor: "#6b3a22", caseMetal: "18k rose gold", image: "/images/meridian/web/watch-rose.webp", ref: "M-01", price: "₹48,50,000" },
     { dial: "Midnight skeleton", dialColor: "#1f2f5c", strap: "Navy alligator", strapColor: "#1c2440", caseMetal: "18k rose gold", image: "/images/meridian/web/watch-midnight.webp", ref: "M-03", price: "₹9,75,000" },
@@ -96,7 +96,7 @@ export const craft = {
   image: "/images/meridian/web/atelier.webp",
   eyebrow: "The atelier",
   heading: "Four hundred hours at one bench.",
-  text: "One watchmaker builds each Meridian from the first screw to the last, then signs the movement.",
+  text: "One watchmaker builds each Vanguard from the first screw to the last, then signs the movement.",
 };
 
 export const figures = {
@@ -129,7 +129,7 @@ export const boutiques = {
   image: "/images/meridian/web/box.webp",
   eyebrow: "Boutiques",
   heading: "Arrives in walnut. Delivered by hand.",
-  text: "Every Meridian comes in a solid walnut case, hand-delivered and insured to your door.",
+  text: "Every Vanguard comes in a solid walnut case, hand-delivered and insured to your door.",
   cities: [
     { city: "Mumbai", note: "Private salon" },
     { city: "New Delhi", note: "Private salon" },
@@ -143,7 +143,7 @@ export const faq = {
   eyebrow: "Care",
   heading: "Questions, answered.",
   items: [
-    { q: "How often does a Meridian need servicing?", a: "Every five to seven years. Your first service is complimentary and takes about six weeks at our atelier." },
+    { q: "How often does a Vanguard need servicing?", a: "Every five to seven years. Your first service is complimentary and takes about six weeks at our atelier." },
     { q: "What does the warranty cover?", a: "Five years on the movement and case against any defect in materials or workmanship." },
     { q: "Will a 42 mm case fit my wrist?", a: "It suits wrists from about 16 cm. Book a viewing and we will bring both sizes to you." },
     { q: "How is my watch delivered?", a: "Hand-delivered in its walnut case, fully insured, usually within three weeks of order." },
@@ -151,13 +151,13 @@ export const faq = {
 };
 
 export const footer = {
-  name: "Meridian",
-  logo: "MERIDIAN",
+  name: "Vanguard",
+  logo: "VANGUARD",
   letter: "Letters from the atelier",
   columns: [
     { title: "Collection", links: ["Tourbillon Rosé", "Squelette Onyx", "Nocturne", "Heure Classique"] },
     { title: "Maison", links: ["Atelier", "Boutiques", "Journal"] },
     { title: "Care", links: ["Servicing", "Warranty", "Contact"] },
   ],
-  note: `Concept website by ${STUDIO}. Meridian is a fictional brand.`,
+  note: `Concept website by ${STUDIO}. Vanguard is a fictional brand.`,
 };
